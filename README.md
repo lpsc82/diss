@@ -2,7 +2,7 @@
 Código em Python, desenvolvido a partir de outro já existente, da autoria de Gil Domingues.
 
 ## Pasta Dataset: 
-dataset separado nos dados obtidos nas fases I e II
+Dataset separado nos dados obtidos nas fases I e II
 
 ## Pasta Source: 
 Código desenvolvido
